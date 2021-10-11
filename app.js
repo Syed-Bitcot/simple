@@ -1,5 +1,6 @@
 const TOKEN ="1234"
 console.log(TOKEN)
+console.log(m1)
 
 console.log("hello world")
 const a=10
@@ -10,4 +11,3 @@ else{
 console.log("Not 10")
 }
 
-console.log(m1)
