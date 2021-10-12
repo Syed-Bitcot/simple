@@ -19,16 +19,16 @@ console.log("Not 10")
 }
 
 
-for (;;) {  // Noncompliant; end condition omitted
+for (;;) {
   // ...
 }
 
 
-var myNumber = 010;   // Noncompliant. myNumber will hold 8, not 10 - was this really expected?
+var myNumber = 010; 
 
 a2 = b;
 c = a2;
 b = c;
 
 
-if (!(a5 === 2)) { ... }  // Noncompliant
+if (!(a5 === 2)) { ... }
