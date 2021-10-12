@@ -3,10 +3,10 @@ console.log(TOKEN)
 console.log(m1)
 
 
-const a= 10;
+const a1= 10;
 const b=20;
-console.log(a+b)
-console.log(b+a)
+console.log(a1+b)
+console.log(b+a1)
 
 console.log("hello world")
 const a=10
