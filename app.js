@@ -1,6 +1,5 @@
 const TOKEN ="1234"
 console.log(TOKEN)
-console.log(TOKEN)
 console.log(m1)
 
 
@@ -20,16 +19,3 @@ console.log("Not 10")
 }
 
 
-for (;;) {
-  // ...
-}
-
-
-var myNumber = 010; 
-
-a2 = b;
-c = a2;
-b = c;
-
-
-if (!(a5 === 2)) { ... }
