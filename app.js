@@ -18,3 +18,14 @@ else{
 console.log("Not 10")
 }
 
+
+for (;;) {  // Noncompliant; end condition omitted
+  // ...
+}
+
+
+var myNumber = 010;   // Noncompliant. myNumber will hold 8, not 10 - was this really expected?
+
+a = b;
+c = a;
+b = c;
