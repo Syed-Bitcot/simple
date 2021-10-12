@@ -26,6 +26,9 @@ for (;;) {  // Noncompliant; end condition omitted
 
 var myNumber = 010;   // Noncompliant. myNumber will hold 8, not 10 - was this really expected?
 
-a = b;
-c = a;
+a2 = b;
+c = a2;
 b = c;
+
+
+if (!(a5 === 2)) { ... }  // Noncompliant
